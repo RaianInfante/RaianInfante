@@ -2,3 +2,6 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (2º Semestre)
 - 📫 Entre em contato comigo pelo e-mail: raian.infante.p@gmail.com
 - 😄 Pronouns: ele/dele
+- 🚀 Sempre fui curioso sobre tecnologia e adoro transformar ideias em projetos práticos. Ainda não conheço muitas linguagens, mas tenho um conhecimento básico em Python, JavaScript, PHP e Java.
+- 📚 Fora da programação, sou fã de livros clássicos, jogos online e sempre estou em busca de novos desafios para expandir meus conhecimentos.
+- 💡 Gosto de compartilhar meus projetos e aprender com a comunidade. Se tiver alguma ideia ou quiser trocar experiências, sinta-se à vontade para entrar em contato!
