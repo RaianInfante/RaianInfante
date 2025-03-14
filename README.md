@@ -5,9 +5,9 @@
 
 ## 🚀 Sobre mim
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**<br>
-⚙️ Criando projetos com **Python, Arduino e desenvolvimento web**<br>
+⚙️ Criando projetos com **Python, Java, JavaScript**<br>
 🎮 Apaixonado por **tecnologia, jogos e automação**<br>
-📚 Atualmente estudando **desenvolvimento de bots para Discord**<br>
+📚 Atualmente estudando **Desenvolvimento de bots para Discord**<br>
 
 ---
 
