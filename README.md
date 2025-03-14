@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Raian Infante
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raian-infante-61641232a/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/RaianInfante)
 
 ## 🚀 Sobre mim
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**<br>
