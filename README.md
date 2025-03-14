@@ -21,12 +21,11 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🚗 **[Carrinho controlado por acelerômetro](https://github.com/seu-usuario/carrinho-arduino)** – Projeto usando **Arduino, Bluetooth HC-05 e acelerômetro** para controlar um carrinho via movimentos da mão.
-- 🤖 **[Bot de reuniões para Discord](https://github.com/seu-usuario/discord-bot)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
+- 🤖 **[Bot de reuniões para Discord](Em desenvolvimento...)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
 
 ---
 
 ## 📫 Contato
-✉️ Me mande um e-mail: **seu-email@gmail.com**
+✉️ Me mande um e-mail: **raian.infante.p@gmail.com**
 
 💬 Sempre aberto a colaborações e novas ideias! Bora codar? 🚀
