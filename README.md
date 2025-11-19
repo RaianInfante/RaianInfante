@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🤖 **[Bot de reuniões para Discord](Finalizado)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
+- 🤖 **[VoxNote](Finalizado)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
 
 ---
 
