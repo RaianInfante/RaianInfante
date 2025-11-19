@@ -7,7 +7,7 @@
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**<br>
 ⚙️ Criando projetos com **Python, Java, JavaScript**<br>
 🎮 Apaixonado por **tecnologia, jogos e automação**<br>
-📚 Atualmente estudando **Desenvolvimento de bots para Discord**<br>
+📚 Atualmente estudando **Análise em Banco de Dados / Power BI**<br>
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🤖 **[Bot de reuniões para Discord](Em desenvolvimento...)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
+- 🤖 **[Bot de reuniões para Discord](Finalizado)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
 
 ---
 
