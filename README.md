@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🤖 **[VoxNote](Finalizado)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
+- 🤖 **[VoxNote](https://github.com/RaianInfante/BotVoxNote?tab=readme-ov-file)** – Um bot que **transcreve e resume reuniões** no Discord usando **Python**.
 
 ---
 
